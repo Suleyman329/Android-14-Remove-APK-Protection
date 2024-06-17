@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
      F:
-      description: 'framework.jar Url'
+      description: 'https://www.tgxhub.workers.dev/dl/665e0232d91544f5ad4aba08'
       required: true
       default: ''
      S:
-      description: 'services.jar Url'
+      description: 'https://www.tgxhub.workers.dev/dl/6670a932a84cc78cab6a0b2d'
       required: true
       default: ''
 jobs:
